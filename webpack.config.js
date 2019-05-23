@@ -1,5 +1,5 @@
 const path = require('path');
-const webpack = require('webpack');
+const webpack = require('./node_modules/webpack');
 
 // env
 const buildDirectory = './dist/';
